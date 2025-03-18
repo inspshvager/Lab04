@@ -1,3 +1,5 @@
+package Klasy;
+
 import java.util.Scanner;
 
 public class Klasa {
